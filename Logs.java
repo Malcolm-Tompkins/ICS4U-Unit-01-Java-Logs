@@ -51,7 +51,7 @@ final class Logs {
 
         // Output
 
-        System.out.println("The number of logs required to fill the truck is: " + numberOfLogs);
+        System.out.println("The number of logs needed is: " + numberOfLogs);
         System.out.println("\nDone.");
     }
 }
