@@ -47,8 +47,8 @@ final class Logs {
         final float logSize = myObj.nextFloat();
 
         // Process
-        final float numberOfLogs = TOTAL_MASS_OF_TRUCK / logSize / MASS_OF_LOGS;
-
+        final float numberOfLogs = TOTAL_MASS_OF_TRUCK / 
+        logSize / MASS_OF_LOGS;
         // Output
 
         System.out.println("The number of logs needed is: " + numberOfLogs);
